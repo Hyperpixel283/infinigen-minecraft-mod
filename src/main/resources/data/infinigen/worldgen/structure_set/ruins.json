@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "infinigen:ruin1",
+      "weight": 5
+    },
+    {
+      "structure": "infinigen:ruin2",
+      "weight": 5
+    },
+    {
+      "structure": "infinigen:ruin3",
+      "weight": 5
+    },
+    {
+      "structure": "infinigen:ruin4",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "salt": 5234819173,
+    "spacing": 5,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

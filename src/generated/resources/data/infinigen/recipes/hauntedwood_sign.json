@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "infinigen:hauntedwood_planks"
+    },
+    "+": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " + "
+  ],
+  "result": {
+    "count": 3,
+    "item": "infinigen:hauntedwood_sign"
+  },
+  "show_notification": true
+}

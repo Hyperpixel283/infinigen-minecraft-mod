@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "infinigen:block/hauntedwood_slab"
+    },
+    "type=double": {
+      "model": "infinigen:block/hauntedwood_planks"
+    },
+    "type=top": {
+      "model": "infinigen:block/hauntedwood_slab_top"
+    }
+  }
+}

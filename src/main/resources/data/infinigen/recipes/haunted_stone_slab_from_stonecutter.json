@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "infinigen:haunted_stone"
+  },
+  "result": "infinigen:haunted_stone_slab"
+}

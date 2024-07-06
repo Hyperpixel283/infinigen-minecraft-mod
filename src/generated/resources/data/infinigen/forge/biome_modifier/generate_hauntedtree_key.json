@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#infinigen:hauntedtree_spawns",
+  "features": "infinigen:hauntedtree_placedfeature_key",
+  "step": "vegetal_decoration"
+}

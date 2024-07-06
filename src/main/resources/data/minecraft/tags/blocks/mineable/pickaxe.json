@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "infinigen:haunted_stone_bricks",
+    "infinigen:chiseled_haunted_stone_bricks",
+    "infinigen:haunted_stone_bricks_stairs",
+    "infinigen:haunted_stone_bricks_slab"
+  ]
+}

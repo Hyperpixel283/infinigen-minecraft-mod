@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "infinigen:block/haunted_stone_bricks_slab"
+    },
+    "type=double": {
+      "model": "infinigen:block/haunted_stone_bricks"
+    },
+    "type=top": {
+      "model": "infinigen:block/haunted_stone_bricks_slab_top"
+    }
+  }
+}

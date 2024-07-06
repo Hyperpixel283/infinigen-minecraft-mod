@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "infinigen:hauntedwood_planks"
+    }
+  ],
+  "result": {
+    "item": "infinigen:hauntedwood_button"
+  }
+}

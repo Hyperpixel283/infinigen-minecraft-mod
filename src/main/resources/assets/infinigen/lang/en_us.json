@@ -1,0 +1,42 @@
+{
+  "creativemodetab.infinigen_creative_tab": "Infinigen Tab",
+
+
+
+  "block.infinigen.haunted_stone_bricks": "Haunted Stone Bricks",
+  "block.infinigen.chiseled_haunted_stone_bricks": "Chiseled Haunted Stone Bricks",
+  "block.infinigen.haunted_stone_bricks_stairs": "Haunted Stone Bricks Stairs",
+  "block.infinigen.haunted_stone_bricks_slab": "Haunted Stone Bricks Slab",
+  "block.infinigen.haunted_stone_bricks_wall": "Haunted Stone Bricks Wall",
+
+  "block.infinigen.hauntedwood_log": "Haunted Log",
+  "block.infinigen.hauntedwood_planks": "Haunted Tree Planks",
+  "block.infinigen.hauntedwood_wood": "Haunted Wood",
+  "block.infinigen.stripped_hauntedwood_log": "Stripped Haunted Log",
+  "block.infinigen.stripped_hauntedwood_wood": "Stripped Haunted Wood",
+  "block.infinigen.hauntedtree_leaves": "Haunted Tree Leaves",
+  "block.infinigen.hauntedtree_sapling": "Haunted Tree Sapling",
+  "block.infinigen.hauntedwood_stairs": "Haunted Wood Stairs",
+  "block.infinigen.hauntedwood_slab": "Haunted Wood Slab",
+  "block.infinigen.hauntedwood_door": "Haunted Wood Door",
+  "block.infinigen.hauntedwood_trapdoor": "Haunted Wood Trapdoor",
+  "block.infinigen.hauntedwood_fence": "Haunted Wood Fence",
+  "block.infinigen.hauntedwood_fence_gate": "Haunted Wood Fencegate",
+  "block.infinigen.hauntedwood_button": "Haunted Wood Button",
+  "block.infinigen.hauntedwood_pressure_plate": "Haunted Wood Pressure Plate",
+  "block.infinigen.hauntedwood_sign": "Haunted Wood Sign",
+  "block.infinigen.hauntedwood_hanging_sign": "Hanging Haunted Wood Sign",
+
+
+
+  "entity.infinigen.mod_chest_boat": "Boot with Chest",
+
+
+
+  "item.infinigen.hauntedwood_boat": "Haunted Wood Boat",
+  "item.infinigen.hauntedwood_chest_boat": "Haunted Wood Boat with Chest",
+
+
+
+  "sounds.infinigen.depth-johnbritton": "Depth - John Britton"
+}

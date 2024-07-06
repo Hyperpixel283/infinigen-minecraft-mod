@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "infinigen:hauntedwood_log",
+    "infinigen:stripped_hauntedwood_log",
+    "infinigen:hauntedwood_wood",
+    "infinigen:stripped_hauntedwood_wood",
+    "infinigen:hauntedwood_planks",
+    "infinigen:hauntedwood_stairs",
+    "infinigen:hauntedwood_slab",
+    "infinigen:hauntedwood_door",
+    "infinigen:hauntedwood_trapdoor",
+    "infinigen:hauntedwood_fence",
+    "infinigen:hauntedwood_fence_gate",
+    "infinigen:hauntedwood_button",
+    "infinigen:hauntedwood_pressure_plate",
+    "infinigen:hauntedwood_sign",
+    "infinigen:hauntedwood_sign_wall",
+    "infinigen:hauntedwood_hanging_sign",
+    "infinigen:hauntedwood_hanging_sign_wall"
+  ]
+}

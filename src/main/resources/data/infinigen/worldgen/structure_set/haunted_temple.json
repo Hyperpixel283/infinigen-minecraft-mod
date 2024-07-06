@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "infinigen:haunted_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 6302840173,
+    "spacing": 16,
+    "separation": 12,
+    "type": "minecraft:random_spread"
+  }
+}

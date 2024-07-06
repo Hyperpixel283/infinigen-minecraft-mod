@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "infinigen:block/hauntedwood_planks",
+    "side": "infinigen:block/hauntedwood_planks",
+    "top": "infinigen:block/hauntedwood_planks"
+  }
+}

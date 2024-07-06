@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "infinigen:block/haunted_stone_bricks",
+    "side": "infinigen:block/haunted_stone_bricks",
+    "top": "infinigen:block/haunted_stone_bricks"
+  }
+}

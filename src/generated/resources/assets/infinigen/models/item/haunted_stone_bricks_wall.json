@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "infinigen:block/haunted_stone_bricks"
+  }
+}

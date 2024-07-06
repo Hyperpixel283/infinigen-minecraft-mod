@@ -1,0 +1,15 @@
+{
+  "name": "infinigen:haunted_temple/entrance_hallway_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "infinigen:haunted_temple/hallways/hallway1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

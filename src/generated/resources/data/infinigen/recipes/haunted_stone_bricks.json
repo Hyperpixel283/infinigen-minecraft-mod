@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "tag": "infinigen:haunted"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "infinigen:haunted_stone_bricks"
+  }
+}

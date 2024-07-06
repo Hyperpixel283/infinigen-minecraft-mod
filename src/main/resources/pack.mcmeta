@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "infinigen resources",
+    "pack_format": 12,
+    "forge:server_data_pack_format": 12,
+    "forge:data_pack_format": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "infinigen:stonehenge",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 9202749718,
+    "spacing": 10,
+    "separation": 8,
+    "type": "minecraft:random_spread"
+  }
+}

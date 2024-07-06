@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "infinigen:block/hauntedwood_log",
+    "side": "infinigen:block/hauntedwood_log"
+  }
+}

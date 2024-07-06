@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "infinigen:block/hauntedwood_planks"
+  }
+}

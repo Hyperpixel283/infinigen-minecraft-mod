@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "infinigen:block/hauntedwood_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "infinigen:block/hauntedwood_wood"
+    },
+    "axis=z": {
+      "model": "infinigen:block/hauntedwood_wood_horizontal",
+      "x": 90
+    }
+  }
+}

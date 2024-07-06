@@ -1,0 +1,41 @@
+{
+  "creativemodetab.infinigen_creative_tab": "Infinigen Tab",
+
+
+
+  "block.infinigen.haunted_stone_bricks": "Heimgesuchte Steinziegel",
+  "block.infinigen.chiseled_haunted_stone_bricks": "Gemeißelte Heimgesuchte Steinziegel",
+  "block.infinigen.haunted_stone_bricks_stairs": "Heimgesuchte Steinziegel Treppe",
+  "block.infinigen.haunted_stone_bricks_slab": "Heimgesuchte Steinziegel Stufe",
+  "block.infinigen.haunted_stone_bricks_wall": "Heimgesuchte Steinziegel Wand",
+
+  "block.infinigen.hauntedwood_log": "Heimgesuchter Stamm",
+  "block.infinigen.hauntedwood_planks": "Heimgesuchte Holz Bretter",
+  "block.infinigen.hauntedwood_wood": "Heimgesuchtes Holz",
+  "block.infinigen.stripped_hauntedwood_log": "Abgezogener Heimgesuchter Stamm",
+  "block.infinigen.stripped_hauntedwood_wood": "Abgezogenes Heimgesuchtes Holz",
+  "block.infinigen.hauntedtree_leaves": "Heimgesuchtes Laub",
+  "block.infinigen.hauntedtree_sapling": "Heimgesuchter Baum Setzling",
+  "block.infinigen.hauntedwood_stairs": "Heimgesuchte Holz Treppe",
+  "block.infinigen.hauntedwood_slab": "Heimgesuchte Holz Stufe",
+  "block.infinigen.hauntedwood_door": "Heimgesuchte Holz Tür",
+  "block.infinigen.hauntedwood_trapdoor": "Heimgesuchte Holz Falltür",
+  "block.infinigen.hauntedwood_fence": "Heimgesuchter Holz Zaun",
+  "block.infinigen.hauntedwood_fence_gate": "Heimgesuchte Holz Zauntür",
+  "block.infinigen.hauntedwood_button": "Heimgesuchter Holz Knopf",
+  "block.infinigen.hauntedwood_sign": "Heimgesuchtes Holz Schild",
+  "block.infinigen.hauntedwood_hanging_sign": "Aufgehängtes Heimgesuchte Holz Schild",
+
+
+
+  "entity.infinigen.mod_chest_boat": "Boot mit Truhe",
+
+
+
+  "item.infinigen.hauntedwood_boat": "Heimgesuchtes Holz Boot",
+  "item.infinigen.hauntedwood_chest_boat": "Heimgesuchte Holz Boot mit Truhe",
+
+
+
+  "sounds.infinigen.depth-johnbritton": "Depth - John Britton"
+}

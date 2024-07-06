@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "infinigen:stripped_hauntedwood_log"
+    },
+    "+": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "+ +",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "infinigen:hauntedwood_hanging_sign"
+  },
+  "show_notification": true
+}
