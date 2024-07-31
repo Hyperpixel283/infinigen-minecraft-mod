@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_apple",
-          "weight": 12
+          "weight": 7
         },
         {
           "type": "minecraft:item",
@@ -17,12 +17,12 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_horse_armor",
-          "weight": 2
+          "weight": 4
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond",
-          "weight": 5
+          "weight": 7
         },
         {
           "type": "minecraft:item",
@@ -32,7 +32,7 @@
             }
           ],
           "name": "minecraft:book",
-          "weight": 10
+          "weight": 11
         }
       ],
       "rolls": {
@@ -58,7 +58,7 @@
             }
           ],
           "name": "minecraft:iron_ingot",
-          "weight": 20
+          "weight": 24
         },
         {
           "type": "minecraft:item",
@@ -74,7 +74,7 @@
             }
           ],
           "name": "minecraft:gold_ingot",
-          "weight": 14
+          "weight": 16
         }
       ],
       "rolls": {

@@ -7,27 +7,27 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:gunpowder",
-          "weight": 7
+          "weight": 22
         },
         {
           "type": "minecraft:item",
           "name": "infinigen:hauntedtree_sapling",
-          "weight": 8
+          "weight": 23
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:coal",
-          "weight": 20
+          "weight": 35
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:redstone",
-          "weight": 12
+          "weight": 27
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:torch",
-          "weight": 15
+          "weight": 30
         }
       ],
       "rolls": {

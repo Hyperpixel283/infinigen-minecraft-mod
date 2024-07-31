@@ -161,7 +161,7 @@ public class ModBlocks {
                     return 20;}
             });
     public static final RegistryObject<Block> HAUNTEDWOOD_BUTTON = registerBlock("hauntedwood_button",
-            () -> new ButtonBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS), BlockSetType.OAK, 1, true) {
+            () -> new ButtonBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS), BlockSetType.OAK, 20, true) {
                 @Override
                 public boolean isFlammable(BlockState state, BlockGetter level, BlockPos pos, Direction direction) {
                     return true;}
