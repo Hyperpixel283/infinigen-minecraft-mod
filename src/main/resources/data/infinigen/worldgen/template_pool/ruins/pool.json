@@ -1,5 +1,5 @@
 {
-  "name": "infinigen:ruin1/start_pool",
+  "name": "infinigen:ruin/pool",
 
   "fallback": "minecraft:empty",
   "elements": [

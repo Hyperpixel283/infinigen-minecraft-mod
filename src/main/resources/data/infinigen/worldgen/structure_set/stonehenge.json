@@ -2,7 +2,11 @@
   "structures": [
     {
       "structure": "infinigen:stonehenge",
-      "weight": 1
+      "weight": 5
+    },
+    {
+      "structure": "infinigen:trapped_stonehenge",
+      "weight": 5
     }
   ],
   "placement": {

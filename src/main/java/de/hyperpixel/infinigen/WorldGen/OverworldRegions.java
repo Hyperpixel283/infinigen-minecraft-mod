@@ -21,9 +21,9 @@ public class OverworldRegions extends Region {
                 .temperature(ParameterUtils.Temperature.WARM, ParameterUtils.Temperature.WARM)
                 .humidity(ParameterUtils.Humidity.span(ParameterUtils.Humidity.NEUTRAL, ParameterUtils.Humidity.FULL_RANGE))
                 .continentalness(ParameterUtils.Continentalness.FAR_INLAND)
-                .erosion(ParameterUtils.Erosion.EROSION_3, ParameterUtils.Erosion.EROSION_5)
+                .erosion(ParameterUtils.Erosion.EROSION_4, ParameterUtils.Erosion.EROSION_6)
                 .depth(ParameterUtils.Depth.SURFACE ,ParameterUtils.Depth.SURFACE)
-                .weirdness(ParameterUtils.Weirdness.MID_SLICE_NORMAL_DESCENDING, ParameterUtils.Weirdness.MID_SLICE_NORMAL_ASCENDING)
+                .weirdness(ParameterUtils.Weirdness.LOW_SLICE_NORMAL_DESCENDING, ParameterUtils.Weirdness.MID_SLICE_NORMAL_DESCENDING)
                 .build().forEach(point -> builder.add(point, HauntedWoods.HAUNTED_WOODS_BIOME));
 
         builder.build().forEach(mapper::accept);

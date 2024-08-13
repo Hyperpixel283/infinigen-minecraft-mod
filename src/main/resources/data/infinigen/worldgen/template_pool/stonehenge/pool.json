@@ -1,5 +1,5 @@
 {
-  "name": "infinigen:stonehenge/start_pool",
+  "name": "infinigen:stonehenge/pool",
 
   "fallback": "minecraft:empty",
   "elements": [
@@ -7,6 +7,15 @@
       "weight": 1,
       "element": {
         "location": "infinigen:stonehenge",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "infinigen:trapped_stonehenge",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
